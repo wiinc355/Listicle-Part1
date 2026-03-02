@@ -1,10 +1,10 @@
-# WEB103 Project 1 - *Name of App Here*
+# WEB103 Project 1 - *Listicle Part 1*
 
-Submitted by: **Your name here**
+Submitted by: Derrick Woodall
 
-About this web app: **App description here**
+About this web app: Is it a guidebook to finding the best local music venues? 🎶 Is it a database of tips and tricks for young entrepreneurs?
 
-Time spent: **X** hours
+Time spent: 10 hours
 
 ## Required Features
 
