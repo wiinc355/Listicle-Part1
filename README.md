@@ -2,9 +2,10 @@
 
 Submitted by: Derrick Woodall
 
-About this web app: Is it a guidebook to finding the best local music venues? 🎶 Is it a database of tips and tricks for young entrepreneurs?
+About this web app: Discover Local Music
+Love live music? This app helps students find upcoming concerts, open mic nights, and music festivals happening near their college or university. Whether you're into indie, hip-hop, EDM, or acoustic sets, you can filter by genre, ticket price, or venue size. Users can click on an event to see more details, like the artist lineup, date and time, and ticket price.
 
-Time spent: 10 hours
+Time spent: 5 hours
 
 ## Required Features
 
